@@ -1,0 +1,4 @@
+﻿  TDecSlice.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+..\..\source\Lib\TLibDecoder\TDecSlice.cpp(361): warning C4101: “debug”: 未引用的局部变量
+  TLibDecoder_vc2013.vcxproj -> C:\Users\82688\Desktop\HM-16.7\build\\vc2013\Win32\Release\TLibDecoder\TLibDecoder.lib

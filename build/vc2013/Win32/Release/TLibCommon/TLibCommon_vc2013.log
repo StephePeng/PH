@@ -1,0 +1,28 @@
+﻿  Debug.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TComChromaFormat.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TComDataCU.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TComLoopFilter.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TComPattern.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TComPic.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TComPicSym.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TComPrediction.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TComRom.cpp
+  TComSampleAdaptiveOffset.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TComSlice.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TComTU.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TComTrQuant.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TComWeightPrediction.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TLibCommon_vc2013.vcxproj -> C:\Users\82688\Desktop\HM-16.7\build\\vc2013\Win32\Release\TLibCommon\TLibCommon.lib

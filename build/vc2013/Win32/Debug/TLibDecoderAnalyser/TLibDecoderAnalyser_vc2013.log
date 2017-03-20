@@ -1,0 +1,22 @@
+﻿  TDecTop.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TDecSlice.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+..\..\source\Lib\TLibDecoder\TDecSlice.cpp(333): warning C4101: “debug”: 未引用的局部变量
+  TDecSbac.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TDecGop.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TDecEntropy.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TDecCu.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TDecCAVLC.cpp
+c:\users\82688\desktop\hm-16.7\source\lib\tlibcommon\TComPicSym.h(136): warning C4114: 多次使用同一类型限定符
+  TDecBinCoderCABAC.cpp
+  SyntaxElementParser.cpp
+  SEIread.cpp
+  NALread.cpp
+  AnnexBread.cpp
+  正在生成代码...
+  TLibDecoderAnalyser_vc2013.vcxproj -> C:\Users\82688\Desktop\HM-16.7\build\\vc2013\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.lib

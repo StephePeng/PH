@@ -1,0 +1,5 @@
+﻿  decmain.cpp
+  TAppDecCfg.cpp
+  TAppDecTop.cpp
+decmain.obj : error LNK2001: 无法解析的外部符号 "void __cdecl myRead(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (?myRead@@YAXHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z)
+F:\HM-16.7\build\\..\bin\vc2013\Win32\Release\TAppDecoderAnalyser.exe : fatal error LNK1120: 1 个无法解析的外部命令
